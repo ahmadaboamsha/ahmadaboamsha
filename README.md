@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=30F727&background=FFFFFF00&center=true&vCenter=true&width=900&lines=Ahmad+Abo+Amsha;Cyber+Security+Engineer+)](https://git.io/typing-svg)
 <h3 align="center">A passionate Cyber Security Specialist & Web Developer</h3>
-https://tryhackme-badges.s3.amazonaws.com/AhmadAboamsha.png
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/AhmadAboamsha.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadaboamsha&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadaboamsha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadaboamsha" alt="ahmadaboamsha" /></a> </p>
