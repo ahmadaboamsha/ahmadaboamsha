@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Cyber Security Specialist & Web Developer</h3>
 
 <p align="center">
-
+  <img src="https://tryhackme-badges.s3.amazonaws.com/AhmadAboamsha.png" alt="Your Image Badge" />
 </p>
 
 <p align="left"> 
