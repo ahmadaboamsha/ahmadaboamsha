@@ -30,6 +30,12 @@
       <img src="https://tryhackme.com/img/badges/incidentresponse.svg" alt="Incident Response" width="60" />
     </a>
     <a href="https://tryhackme.com/p/AhmadAboamsha">
+      <img src="https://tryhackme.com/img/badges/detectionengineering.svg" alt="Detection Engineering" width="60" />
+    </a>
+    <a href="https://tryhackme.com/p/AhmadAboamsha">
+      <img src="https://tryhackme.com/img/badges/advancedelk.svg" alt="Advanced ELK" width="60" />
+    </a>
+    <a href="https://tryhackme.com/p/AhmadAboamsha">
       <img src="https://tryhackme.com/img/badges/threatemulation.svg" alt="Threat Emulation" width="60" />
     </a>
     <a href="https://tryhackme.com/p/AhmadAboamsha">
