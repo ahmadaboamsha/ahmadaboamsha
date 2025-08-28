@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0FFFC1&center=true&vCenter=true&width=900&lines=Top+10+in+Syria;Cyber+Security+is+my+Playground+%F0%9F%94%90" alt="Typing SVG" />
 </p>
-![Image](https://github.com/user-attachments/assets/93ac067a-63c1-4b67-9eda-6117a2465ff5)
 
 ---
 
