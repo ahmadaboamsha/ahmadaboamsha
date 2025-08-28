@@ -25,30 +25,6 @@
   - [Web Fundamentals](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-U7MFXGJL0M.pdf)
 
 </details>
-
-<p align="center">
-  <a href="https://tryhackme.com/p/AhmadAboamsha">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/AhmadAboamsha.png" alt="Your Image Badge" />
-  </a>
-</p>
-
----
-
-### 💀 **About Me**
-> *"Pain Is Power For The Defender"*  
-- Passionate about **offensive and defensive security**  
-- Focusing on **SOC operations, web security, and threat hunting**  
-- Always exploring new **rooms and attack vectors**  
-
----
-
-### ⚡ **Tech Stack**
-```bash
-🖥️ OS: Kali Linux / Parrot Security  
-🔧 Tools: Burp Suite, Wireshark, Metasploit, Nmap, Splunk  
-📚 Learning: Threat Hunting, Malware Analysis, Blue & Red Teaming
-```
-
 <details>
   <summary style="font-size:16px; color:#00ffc8;">🏆 Cleared Rooms </summary>
   <br>
@@ -218,3 +194,27 @@
   </table>
 </details>
 
+
+
+<p align="center">
+  <a href="https://tryhackme.com/p/AhmadAboamsha">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/AhmadAboamsha.png" alt="Your Image Badge" />
+  </a>
+</p>
+
+---
+
+### 💀 **About Me**
+> *"Pain Is Power For The Defender"*  
+- Passionate about **offensive and defensive security**  
+- Focusing on **SOC operations, web security, and threat hunting**  
+- Always exploring new **rooms and attack vectors**  
+
+---
+
+### ⚡ **Tech Stack**
+```bash
+🖥️ OS: Kali Linux / Parrot Security  
+🔧 Tools: Burp Suite, Wireshark, Metasploit, Nmap, Splunk  
+📚 Learning: Threat Hunting, Malware Analysis, Blue & Red Teaming
+```
