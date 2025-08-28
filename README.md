@@ -208,7 +208,15 @@
 > *"Pain Is Power For The Defender"*  
 - Passionate about **offensive and defensive security**  
 - Focusing on **SOC operations, web security, and threat hunting**  
-- Always exploring new **rooms and attack vectors**  
+- Always exploring new **rooms and attack vectors**
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://example.com/trophy1.png" width="80" />
+  <img src="https://example.com/trophy2.png" width="80" />
+  <img src="https://example.com/trophy3.png" width="80" />
+</p>
 
 ---
 
