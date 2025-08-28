@@ -18,7 +18,21 @@
 ### 🛡️ **TryHackMe Progress**
 - **Rank**: Top 10 in Syria  
 - **Rooms Completed**: 190+
-- [![TryHackMe Advanced ELK Badge](https://tryhackme.com/img/badges/advancedelk.svg)](https://tryhackme.com/p/AhmadAboamsha)
+- <details>
+  <summary><b>🏅 Badges</b></summary>
+  <p align="center">
+    <a href="https://tryhackme.com/p/YOUR-USERNAME">
+      <img src="https://tryhackme.com/img/badges/advancedelk.svg" alt="Advanced ELK" width="80" />
+    </a>
+    <a href="BADGE_LINK_2">
+      <img src="BADGE_IMAGE_2" alt="Badge 2" width="80" />
+    </a>
+    <a href="BADGE_LINK_3">
+      <img src="BADGE_IMAGE_3" alt="Badge 3" width="80" />
+    </a>
+  </p>
+</details>
+
 
 <details>
   <summary>Certificates</summary>
