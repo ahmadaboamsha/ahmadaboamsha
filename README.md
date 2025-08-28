@@ -33,3 +33,29 @@
 🖥️ OS: Kali Linux / Parrot Security  
 🔧 Tools: Burp Suite, Wireshark, Metasploit, Nmap, Splunk  
 📚 Learning: Threat Hunting, Malware Analysis, Blue & Red Teaming
+
+
+###  Completed Rooms & Flags
+
+| **Room Name**           | **Completed On** | **Difficulty** | **Flags Found**                |
+|--------------------------|------------------|----------------|---------------------------------|
+| RoomName1                | 2025-08-20       | Medium         | flag1{xxx}, flag2{yyy}          |
+| RoomName2                | 2025-08-25       | Hard           | flag{zzz}                       |
+
+<style>
+table {
+  width: 100%;
+  border-collapse: collapse;
+  color: #00ffc8;
+}
+th, td {
+  border-bottom: 1px solid #005f3f;
+  padding: 8px;
+}
+th {
+  background-color: #002f1f;
+}
+tr:nth-child(even) {
+  background-color: #001f13;
+}
+</style>
