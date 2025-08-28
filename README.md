@@ -18,17 +18,46 @@
 ### 🛡️ **TryHackMe Progress**
 - **Rank**: Top 10 in Syria  
 - **Rooms Completed**: 190+
-- <details>
+
+
+<details>
   <summary><b>🏅 Badges</b></summary>
   <p align="center">
     <a href="https://tryhackme.com/p/YOUR-USERNAME">
-      <img src="https://tryhackme.com/img/badges/advancedelk.svg" alt="Advanced ELK" width="80" />
+      <img src="https://tryhackme.com/img/badges/malwareanalysis.svg" alt="Malware Analysis" width="60" />
     </a>
-    <a href="BADGE_LINK_2">
-      <img src="BADGE_IMAGE_2" alt="Badge 2" width="80" />
+    <a href="https://tryhackme.com/p/YOUR-USERNAME">
+      <img src="https://tryhackme.com/img/badges/incidentresponse.svg" alt="Incident Response" width="60" />
     </a>
-    <a href="BADGE_LINK_3">
-      <img src="BADGE_IMAGE_3" alt="Badge 3" width="80" />
+    <a href="https://tryhackme.com/p/YOUR-USERNAME">
+      <img src="https://tryhackme.com/img/badges/threatemulation.svg" alt="Threat Emulation" width="60" />
+    </a>
+    <a href="https://tryhackme.com/p/YOUR-USERNAME">
+      <img src="https://tryhackme.com/img/badges/threathunting.svg" alt="Threat Hunting" width="60" />
+    </a>
+    <a href="https://tryhackme.com/p/YOUR-USERNAME">
+      <img src="https://tryhackme.com/img/badges/advancedsplunk.svg" alt="Advanced Splunk" width="60" />
+    </a>
+    <a href="https://tryhackme.com/p/YOUR-USERNAME">
+      <img src="https://tryhackme.com/img/badges/loganalysis.svg" alt="Log Analysis" width="60" />
+    </a>
+    <a href="https://tryhackme.com/p/YOUR-USERNAME">
+      <img src="https://tryhackme.com/img/badges/streak90.svg" alt="Streak 90" width="60" />
+    </a>
+    <a href="https://tryhackme.com/p/YOUR-USERNAME">
+      <img src="https://tryhackme.com/img/badges/owasptop10.svg" alt="OWASP Top 10" width="60" />
+    </a>
+    <a href="https://tryhackme.com/p/YOUR-USERNAME">
+      <img src="https://tryhackme.com/img/badges/league-gold.svg" alt="League Gold" width="60" />
+    </a>
+    <a href="https://tryhackme.com/p/YOUR-USERNAME">
+      <img src="https://tryhackme.com/img/badges/boogeyman3.svg" alt="BoogeyMan 3" width="60" />
+    </a>
+    <a href="https://tryhackme.com/p/YOUR-USERNAME">
+      <img src="https://tryhackme.com/img/badges/burpsuite.svg" alt="Burp Suite" width="60" />
+    </a>
+    <a href="https://tryhackme.com/p/YOUR-USERNAME">
+      <img src="https://tryhackme.com/img/badges/metasploit.svg" alt="Metasploit" width="60" />
     </a>
   </p>
 </details>
