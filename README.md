@@ -14,7 +14,17 @@
 ### 🛡️ **TryHackMe Progress**
 - **Rank**: Top 10 in Syria  
 - **Rooms Completed**: 190+  
-- **Certificates**: SOC Level 1, SOC Level 2, Junior Penetration Tester, Pre Security, Web Fundamentals  
+
+<details>
+  <summary>Certificates</summary>
+  
+  - [SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-B4CPRRLAAO.pdf)
+  - [SOC Level 2](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MF1BNTM7PS.pdf)
+  - [Junior Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XVJ0XHGBRK.pdf)
+  - [Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-5FT6INB4JA.pdf)
+  - [Web Fundamentals](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-U7MFXGJL0M.pdf)
+
+</details>
 
 <p align="center">
   <a href="https://tryhackme.com/p/AhmadAboamsha">
