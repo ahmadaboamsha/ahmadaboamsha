@@ -199,16 +199,6 @@
 <p align="center">
   <a href="https://tryhackme.com/p/AhmadAboamsha">
     <img src="https://tryhackme-badges.s3.amazonaws.com/AhmadAboamsha.png" alt="Your Image Badge" />
-  </a>
-</p>
-
----
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmadaboamsha" alt="ahmadaboamsha" />
-  </a> 
-</p>
-
 
 ### 💀 **About Me**
 > *"Pain Is Power For The Defender"*  
