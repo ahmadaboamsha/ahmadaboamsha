@@ -10,5 +10,5 @@
 ### 🛡️ TryHackMe Progress
 ```diff
 + Rank: Top 10 in Syria
-+ Rooms Completed: 180+
++ Rooms Completed: 190+
 + Certificates: SOC L1, SOC L2, Jr PenTester, Pre Security, Web Fundamentals
