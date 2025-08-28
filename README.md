@@ -6,7 +6,8 @@
 <h3 align="center">Cyber Security Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0FFFC1&center=true&vCenter=true&width=900&lines=Top+10+in+Syria;Cyber+Security+is+my+Playground+%F0%9F%94%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0FFFC1&center=true&vCenter=true&width=900&lines=Cyber+Security+is+my+Playground+%F0%9F%94%90;Turning+Cyber+Chaos+into+Control;Breking+Limits+in+Cyber+Security" alt="Typing SVG" />
+ 
 </p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ahmadaboamsha&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadaboamsha" />
