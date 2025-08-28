@@ -18,7 +18,7 @@
 ### 🛡️ **TryHackMe Progress**
 - **Rank**: Top 10 in Syria  
 - **Rooms Completed**: 190+
-- https://tryhackme.com/img/badges/advancedelk.svg
+- [![TryHackMe Advanced ELK Badge](https://tryhackme.com/img/badges/advancedelk.svg)](https://tryhackme.com/p/AhmadAboamsha)
 
 <details>
   <summary>Certificates</summary>
