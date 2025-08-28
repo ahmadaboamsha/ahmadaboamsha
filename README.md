@@ -17,7 +17,8 @@
 
 ### 🛡️ **TryHackMe Progress**
 - **Rank**: Top 10 in Syria  
-- **Rooms Completed**: 190+  
+- **Rooms Completed**: 190+
+- https://tryhackme.com/img/badges/advancedelk.svg
 
 <details>
   <summary>Certificates</summary>
