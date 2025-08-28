@@ -203,6 +203,12 @@
 </p>
 
 ---
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmadaboamsha" alt="ahmadaboamsha" />
+  </a> 
+</p>
+
 
 ### 💀 **About Me**
 > *"Pain Is Power For The Defender"*  
