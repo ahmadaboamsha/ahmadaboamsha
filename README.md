@@ -48,6 +48,9 @@
       <img src="https://tryhackme.com/img/badges/loganalysis.svg" alt="Log Analysis" width="60" />
     </a>
     <a href="https://tryhackme.com/p/AhmadAboamsha">
+      <img src="https://tryhackme.com/img/badges/streak180.svg" alt="Streak 180" width="60" />
+    </a>
+    <a href="https://tryhackme.com/p/AhmadAboamsha">
       <img src="https://tryhackme.com/img/badges/streak90.svg" alt="Streak 90" width="60" />
     </a>
     <a href="https://tryhackme.com/p/AhmadAboamsha">
