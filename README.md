@@ -1,8 +1,6 @@
 
 <p align="center">
-  ![483162107-8f058583-84c9-47b4-a149-a19dbccf8361](https://github.com/user-attachments/assets/c26b4eba-142d-46ad-813f-096f5c81a667)
-
-  <img src="" alt="Image">
+  <img src="  https://github.com/user-attachmes/assets/c26b4eba-142d-46ad-813f-096f5c81a667" alt="Image">
 </p>
 <h1 align="center">👨‍💻 Ahmad Abo Amsha</h1>
 <h3 align="center">Cyber Security Enthusiast</h3>
