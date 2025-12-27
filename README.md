@@ -3,7 +3,7 @@
    <img src="https://github.com/user-attachments/assets/df67714f-651a-43fb-8bbe-26b53f1d4dd6" alt="Image">
 </p>
 <h1 align="center">👨‍💻 Ahmad Abo Amsha</h1>
-<h3 align="center">Cyber Security Enthusiast</h3>
+<h3 align="center">🛡️ SOC Analyst | Incident Response | Cybersecurity Student</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0FFFC1&center=true&vCenter=true&width=900&lines=Cyber+Security+is+my+Playground+%F0%9F%94%90;Turning+Cyber+Chaos+into+Control;Breking+Limits+in+Cyber+Security" alt="Typing SVG" />
