@@ -73,7 +73,7 @@
 
 
 <details>
-  <summary>Certificates</summary>
+  <summary>📜 Certificates</summary>
   
   - [SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-B4CPRRLAAO.pdf)
   - [SOC Level 2](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MF1BNTM7PS.pdf)
